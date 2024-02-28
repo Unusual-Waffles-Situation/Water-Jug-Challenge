@@ -12,6 +12,7 @@ Then a solution is possible. The solution reached is attained using two situatio
 * The second jug is used to fill the first jug (Y to X).
 
 And one of these has to be the one with the fewest steps possible.
+
 The program ask the user, via the terminal, the required values for the jugs; starting from X, Y and finally Z. If any of the values are not numerical, then a warning will alert the user to enter only numbers and to try again; or if the values are negative, it will alert the user to enter only positive, or greater than zero, numbers. Afterward, the solution will be shown via the terminal and through a JSON file located in the 'Solution' folder.
 
 # Test Cases for Validation
