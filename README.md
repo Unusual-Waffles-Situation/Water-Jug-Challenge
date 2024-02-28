@@ -17,15 +17,15 @@ The program ask the user, via the terminal, the required values for the jugs; st
 
 # Test Cases for Validation
 ### 1st example
-Jug X = 3, jug Y = 5, jug Z = 4. The solution is as follow:
+**Jug X = 3**, **jug Y = 5**, **jug Z = 4**. The solution is as follow:
 ![image](https://github.com/Unusual-Waffles-Situation/Water-Jug-Challenge/assets/62034860/ce9e6469-b332-48b6-a603-69f3972b830a)
 
 ### 2nd example
-Jug X = 10, jug Y = 2, jug Z = 4. The solution is as follow:
+**Jug X = 10**, **jug Y = 2**, **jug Z = 4**. The solution is as follow:
 ![image](https://github.com/Unusual-Waffles-Situation/Water-Jug-Challenge/assets/62034860/1efaf7f0-ca82-40ad-b365-a4979868a3bd)
 
 ### 3rd example
-Jug X = 35, jug Y = 45, jug Z = 55. The solution is as follow:
+**Jug X = 35**, **jug Y = 45**, **jug Z = 55**. The solution is as follow:
 ![image](https://github.com/Unusual-Waffles-Situation/Water-Jug-Challenge/assets/62034860/6c596f47-2f0e-4332-a413-ca1f9b350ca2)
 
 # Instruction
