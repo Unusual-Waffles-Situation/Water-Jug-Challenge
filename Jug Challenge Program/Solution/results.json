@@ -1,1 +1,0 @@
-"Step 1: \nJug X = 2 \nJug Y = 0 \nExplanation = Fill bucket X\n\nStep 2: \nJug X = 0 \nJug Y = 2 \nExplanation = Transfer from bucket X to Y\n\nStep 3: \nJug X = 2 \nJug Y = 2 \nExplanation = Fill bucket X\n\nStep 4: \nJug X = 0 \nJug Y = 4 \nExplanation = Transfer from bucket X to Y\n\n"
