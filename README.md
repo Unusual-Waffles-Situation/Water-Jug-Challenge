@@ -26,6 +26,7 @@ The program ask the user, via the terminal, the required values for the jugs; st
 
 ### 3rd example
 **Jug X = 35**, **jug Y = 45**, **jug Z = 55**. The solution is as follow:
+
 ![image](https://github.com/Unusual-Waffles-Situation/Water-Jug-Challenge/assets/62034860/6c596f47-2f0e-4332-a413-ca1f9b350ca2)
 
 # Instruction
